@@ -6,6 +6,15 @@ Finished: 10.12.22
 
 <br>
 
+## Pictures
+
+![](https://i.imgur.com/vGnO3li.png)
+![](https://i.imgur.com/qKGsLla.png)
+
+![](https://i.imgur.com/svUScwp.png)
+
+<br>
+
 ## Tech Stack
 
 - MVC (.NET Framework 4.7.2)
